@@ -1,4 +1,4 @@
-#Small Projects
+# Small Projects
 * current W.I.P and finished projects
 - Rock, Paper, Scissors: Done
 - Shopkeeper/store: Done
